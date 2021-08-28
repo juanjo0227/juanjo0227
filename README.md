@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Juan José Rodríguez - @juanjo0227
+- 👀 I’m interested in learning about React, Flutter and RPA
+- 🌱 I’m currently learning React, RPA and Flutter
+- 💞️ I’m looking to collaborate on an amazing project.
+- 📫 You can reach me sending an email to jjrd91@hotmail.com
